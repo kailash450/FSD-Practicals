@@ -1,0 +1,15 @@
+h1 {
+	text-align:center;
+}
+form{
+	text-align:center;
+}
+table, th, td {
+  border: 1px solid black;
+}
+body{
+	background-image:url("BG.png");
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-color:powderblue;
+}
