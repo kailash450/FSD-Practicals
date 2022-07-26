@@ -13,3 +13,7 @@ body{
 	background-position:center top;
 	background-color:powderblue;
 }
+img{
+	width:15%;
+	height: auto;
+}
