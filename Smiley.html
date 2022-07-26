@@ -6,5 +6,14 @@
         <img src="Img1.jpg" id="MyPic" alt="Sad Simley" style="width:100px ;">
         <button onclick="document.getElementById('MyPic').src='Img2.png'">Make Smiley Happy</button>
         <button onclick="document.getElementById('MyPic').src='Img1.jpg'">Make Smiley Sad</button>
+        <p id="demo"></p>
+        <script>
+            let x = myFunction(4, 3);
+            document.getElementById("demo").innerHTML = x;
+            
+            function myFunction(a, b) {
+              return a * b;
+            }
+            </script>
     </body>
 </html>
